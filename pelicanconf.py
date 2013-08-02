@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'fnord0'
 SITENAME = u'Dweller on the Threshold.net'
 #SITEURL = 'https://fnord0.github.io'
-SITEURL = 'https://fnord0.github.io/pelican'
+SITEURL = 'http://fnord0.github.io/pelican'
 #SITEURL = 'posts/slug/index.html'
 #SAVE_AS = 'posts/slug/index.html'
 ARTICLE_URL = 'posts/{slug}'
